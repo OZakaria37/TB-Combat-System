@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1623978289 source:e:\cs turn based\main.cpp
+	<iostream>
+	<deque>
+	<vector>
+	<set>
+	<iterator>
+	<time.h>
+	<algorithm>
+	<fstream>
+	"Skill.h"
+	"Player.h"
+	"Battle.h"
+
+1624045118 e:\cs turn based\player.h
+
+1623978509 e:\cs turn based\battle.h
+
+1623968699 e:\cs turn based\skill.h
+
+1623689309 e:\cs turn based\statuseffect.h
+
+1623978289 source:c:\users\a.c.c\downloads\the standouts\cs turn based\main.cpp
+	<iostream>
+	<deque>
+	<vector>
+	<set>
+	<iterator>
+	<time.h>
+	<algorithm>
+	<fstream>
+	"Skill.h"
+	"Player.h"
+	"Battle.h"
+
+1623968699 c:\users\a.c.c\downloads\the standouts\cs turn based\skill.h
+
+1624045118 c:\users\a.c.c\downloads\the standouts\cs turn based\player.h
+
+1623978509 c:\users\a.c.c\downloads\the standouts\cs turn based\battle.h
+
